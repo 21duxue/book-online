@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/21duxue/book-online/issues"
   },
-  "homepage": "https://github.com/21duxue/book-online#readme"
+  "homepage": "https://github.com/21duxue/book-online#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
